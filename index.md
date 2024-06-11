@@ -37,7 +37,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
    Pinyin: yan se tai chou chang xue sheng ni bie huang zhang shi li chou ji duo chou bu ru kao zai wo shen shang
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -66,7 +66,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
   Pinyin: kai qi meng de duo chong yu zhou yi chang wan mei de chu zou rang ni pei wo yang wang shan yao
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -95,7 +95,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
   Pinyin: hai pa shen me dou shi qu zhi shi xiang yao you ren ting ting dao wo de bu shi ying
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -124,7 +124,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
   Pinyin: mei dao yao xian kai wo jie shou ni de tiao zhan fang da ni gei wo de ai tian man wo de xin kan
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -153,7 +153,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
   Pinyin: ni gei wo de ai ru hua sheng kai ru hua luo bai ri jian cang bai ni zhuan shen li kai liu xia kong bai
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -182,7 +182,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
   Pinyin: ni lian shang de chun yin ai mei de hen zi xi tian de xiang mo li hua kai de xiang qi
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -211,7 +211,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
   Pinyin: qi shi dui wo lai shuo bu suan jing ya wo ke yi xie si di li bi mian le gan ga
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -240,7 +240,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
   Pinyin: wo men de gu shi zhong yu jiu zhe yang jie le wei ni bu zai shi shi wo de shei
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -270,7 +270,7 @@ We provide target singing vocals and the prompts about accompaniment to generate
    
   Pinyin: zhi you wo dong ni wan an de yi yi shi xiang ni de xun hao
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -304,7 +304,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
 
   Pinyin: dang ji yi de xian chan rao guo wang zhi li po sui
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -325,7 +325,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -350,7 +350,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
 
   Pinyin: wan mei wu que xing fu dou le yi ge quan na xie mei hao de dou quan
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -371,7 +371,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -396,7 +396,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
 
   Pinyin: qian wan ji de tian ya you ren zai deng dai
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -417,7 +417,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -442,7 +442,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
 
   Pinyin: zhi xiang yu sheng you ge ban ku le suan tian yi qi fen dan
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -463,7 +463,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -488,7 +488,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
 
   Pinyin: pin jin quan li zheng zha zhi wei neng cheng wei bu tong ren a ni hao lei dui ma
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -509,7 +509,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -534,7 +534,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
 
   Pinyin: qi di sheng hui dang zai kong qi luo yu de heng ji bei yi wang dai ti
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -555,7 +555,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -577,12 +577,11 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
     </table>
 
 
-
 * Lyrics: 我们并肩走过许多地方你的出现也曾像夜的极光
 
   Pinyin: wo men bing jian zou guo xu duo di fang ni de chu xian ye ceng xiang ye de ji guang
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -603,7 +602,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -628,7 +627,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
 
   Pinyin: sheng kai zai xia tian
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -649,7 +648,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -674,7 +673,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
 
   Pinyin: hao xiang xian zai de wo
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -695,7 +694,7 @@ We drop the target vocal input and provide lyrics, target MIDI sequences, and vo
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 120%;'>
         <thead>
         <tr>
             <th></th>
@@ -725,7 +724,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: ni ben pao de fang xiang shi mei wo de di fang
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -748,7 +747,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -775,7 +774,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: zhi xiang you ni zai shen bian yeah
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -798,7 +797,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -825,7 +824,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: tai yang bu hui fang qi tian kong na pa ni bu zai shu yu wo
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -848,7 +847,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -875,7 +874,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: ning ke dang zuo shi bai ning ke chong xin zai lai
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -898,7 +897,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -925,7 +924,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: jiu qing ni gao su ta ni de ming zi wo de ming zi
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -948,7 +947,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -975,7 +974,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: zhi dao sheng ming zui hou yi tian
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -998,7 +997,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1025,7 +1024,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: qian wan ji de tian ya you ren zai deng dai
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1048,7 +1047,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1075,7 +1074,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: li bie zong zai shi yi zhong du guo
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1098,7 +1097,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1125,7 +1124,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: wo jia zhuang kan bu jian wo jia zhuang kan bu jian yin wei hai pa shuo bao qian
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1148,7 +1147,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1175,7 +1174,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: qu si nian ai qing you dian tian
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1198,7 +1197,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1225,7 +1224,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
 
   Pinyin: wo zhi dao zhe yang bu shi zui hao de jue ding
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>
@@ -1248,7 +1247,7 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table>
 
-    <table style='width: 100%;'>
+    <table style='width: 130%;'>
         <thead>
         <tr>
             <th></th>

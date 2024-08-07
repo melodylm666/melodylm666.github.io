@@ -1220,56 +1220,6 @@ We drop the target MIDI sequences, and replace them with the melody prompts to g
         </tbody>
     </table> -->
 
-* Lyrics: 我知道这样不是最好的决定
-
-  Pinyin: wo zhi dao zhe yang bu shi zui hao de jue ding
-
-    <table style='width: 130%;'>
-        <thead>
-        <tr>
-            <th></th>
-            <th>GT Song</th>
-            <th>GT Vocal</th>
-            <th>GT MIDI</th>
-            <th>Melody Prompts</th>
-            <th>Accomp. Prompts</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <th scope="row">wav</th>
-            <td><audio controls="" ><source src="resources/samples/lyrics_midprompt_vocalref_to_song/gt_song/我知道这样不是最好的决定.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="resources/samples/lyrics_midprompt_vocalref_to_song/gt_vocal/我知道这样不是最好的决定.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="resources/samples/lyrics_midprompt_vocalref_to_song/gt_midi/我知道这样不是最好的决定.wav" type="audio/wav"></audio></td>
-            <td style="text-align: center">This musical segment in F sharp major, with a melody carrying a medium pitch and a quick tempo for 6 seconds, is steeped in easygoing essence.</td>
-            <td style="text-align: center">The recorded music showcases a pop song that consists of a flat female vocal singing over electric guitar melody, groovy bass guitar, shimmering hi hats, punchy kick and snare hits. It sounds emotional and passionate. </td>
-        </tr>
-        </tbody>
-    </table>
-
-    <table style='width: 130%;'>
-        <thead>
-        <tr>
-            <th></th>
-            <th>Ref. Vocal</th>
-            <th>Generated MIDI</th>
-            <th>Generated Vocal</th>
-            <th>Generated Accomp.</th>
-            <th>Generated Song</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr>
-            <th scope="row">wav</th>
-            <td><audio controls="" ><source src="resources/samples/lyrics_midprompt_vocalref_to_song/ref_vocal/我知道这样不是最好的决定.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="resources/samples/lyrics_midprompt_vocalref_to_song/pred_midi/我知道这样不是最好的决定.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="resources/samples/lyrics_midprompt_vocalref_to_song/pred_vocal/我知道这样不是最好的决定.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="resources/samples/lyrics_midprompt_vocalref_to_song/pred_cond_accomp/我知道这样不是最好的决定.wav" type="audio/wav"></audio></td>
-            <td><audio controls="" ><source src="resources/samples/lyrics_midprompt_vocalref_to_song/pred_cond_song/我知道这样不是最好的决定.wav" type="audio/wav"></audio></td>
-        </tr>
-        </tbody>
-    </table>
-
 
 <h2 id="lyrics_melodyprompts_to_song">Lyrics + Melody Prompts -> Song</h2>
 
